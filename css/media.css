@@ -1,0 +1,150 @@
+@media screen and (max-width: 990px) {
+	body {
+		font-size: 14px;
+	}
+	.title-box {
+		font-size: 10px;
+	}
+	.title-box-three {
+		font-size: 10px;
+	}
+	.container {
+		width: auto;
+		padding: 20px;
+	}
+
+	.container.row-box {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.logo {
+	padding-top: 0px;
+}
+	.row-composition {
+	flex-direction: column;
+	align-items: center;
+	}
+.row-usage-content {
+ flex-direction: column;
+ align-items: center;
+}
+.text-box-two {
+	margin-left: auto;
+}
+.product-img {
+	position: static;
+}
+.product-img-three {
+position: static;
+margin-left: 10px;
+}
+
+.composition-box-image {
+z-index: 1;
+position: static;
+transform: translate(0, 0);
+
+}
+.composition-box-image img {
+	height: auto;
+	width: 80%;
+}
+.text-content {
+	max-width: 290px;
+
+
+}
+.text-content__title {
+background-color: rgba(255,255,255,0.3);
+}
+.text-content p {
+	background-color: rgba(255,255,255,0.3);
+}
+.form-box {
+	width:300px;
+}
+.composition-item__content {
+	width: 200px;
+}
+.composition-item {
+	width: 280px;
+}
+.composition-item__text {
+	padding-right: 50px;
+
+}
+.composition-item__title {
+	width: auto;
+
+}
+.composition-item-right {
+	width: 280px;
+}
+.composition-item__img1 {
+	width: 60px;
+	height: 60px;
+}
+.composition-item__img2 {
+	width: 60px;
+	height: 60px;
+}
+.composition-item__img3 {
+	width: 60px;
+	height: 60px;
+}
+.composition-item__img4 {
+	width: 60px;
+	height: 60px;
+}
+.composition-item__img5
+{
+	width: 60px;
+	height: 60px;
+}
+
+.container-fluid.screen-two {
+	display: none;
+}
+.screen-five {
+	padding-bottom: 40px;
+}
+
+	.screen-one {
+background: url(../img/bg-first.png) no-repeat 50% 25% ;
+background-size:auto;
+	}
+
+	.form-box {
+		margin-top: 50px;
+	}
+	.screen-four {
+		background-size:auto 100%;
+	}
+	.discount-ancor {
+		margin: 0 auto;
+		width: auto;
+	}
+	.ancor-button {
+		margin: 0 auto;
+		width: 200px
+	}
+	.usage-content-center {
+		margin-top: auto;
+	}
+
+	.img-frame-img {
+		margin: 0 auto;
+	}
+	.usage-content__text {
+		padding: 0;
+	}
+	.usage-content__text {
+		margin: 10px 0 20px 0;
+	}
+	.now-users {
+margin-top:40px ;
+left:50%;
+transform: translate(-50%,0);
+}
+	
